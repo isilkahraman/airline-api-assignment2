@@ -78,5 +78,7 @@ Make sure all three parts (backend, gateway, frontend) are running.
 --https://github.com/isilkahraman/airline-api-assignment2.git
 --I had issues with deployment due to pom.xml file path. Couldn't solve it.
 
+https://drive.google.com/file/d/1B6pzrpGMAGFwVvQ0reAfRoIXT7D75gmw/view?usp=drive_link
+
 
 Prepared by: Işıl Kahraman
