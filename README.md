@@ -75,4 +75,8 @@ All chat messages are saved to Firebase Firestore under the messages collection.
 
 Make sure all three parts (backend, gateway, frontend) are running.
 
+--https://github.com/isilkahraman/airline-api-assignment2.git
+--I had issues with deployment due to pom.xml file path. Couldn't solve it.
+
+
 Prepared by: Işıl Kahraman
